@@ -3,9 +3,12 @@
 
 ## 📝 Description
 
-The ft_printf project recreates the printf function in C, focusing on handling various format specifiers.  
-Learn and implement variadic functions, deepening the understanding of C programming, and formatted output.  
-Key features include supporting different data types, and implementing various formatting options.
+The ft_printf project recreates the printf function in C,
+focusing on handling various format specifiers. Learn and implement
+variadic functions, functions of C programming, and formatted output. 
+
+Key features include supporting different data types,
+and implementing various formatting options.
 
 ## 🖥️ Features
 
