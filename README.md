@@ -16,7 +16,7 @@ Key features include supporting different data types, and implementing various f
 
 ## ⚙️ Installation
 
-```sh
+sh
 git clone https://github.com/g01100001/ft_printf.git
 cd ft_printf
 make
@@ -29,7 +29,7 @@ make
 
 int main()
 {
-    ft_printf("Hello, %s! Your score is %d.\n", "user", 42);
+    ft_printf("Hello, %s! Your keypass is %d.\n", "user", 42);
     return 0;
 }
 ```
