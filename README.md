@@ -17,7 +17,7 @@ Key features include supporting different data types, and implementing various f
 ## ⚙️ Installation
 
 ```sh
-git clone https://github.com/yourusername/ft_printf.git
+git clone https://github.com/g01100001/ft_printf.git
 cd ft_printf
 make
 ````
