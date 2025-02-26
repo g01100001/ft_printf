@@ -27,12 +27,14 @@ make
 ##
 
 ```c
+## ⚙️ Usage
+
 #include "ft_printf.h"
 
 int main()
 {
     ft_printf("Hello, your keypass is %d.\n", 42);
-    return 0;
+    return (0);
 }
 ```
 
